@@ -46,8 +46,7 @@ git clone https://github.com/ShehabAdel99/Carpool-Mobile-Programming-Project.git
 - Driver Password: Test_Driver_
 
 ## Video Demonstration 🎞️
-
-Click on the image above to watch a video demonstration of the running app.
+https://github.com/ShehabAdel99/Carpool-Mobile-Programming-Project/assets/96583491/a56a6a0a-72ab-4e14-ac8c-71457160f273
 
 ## Author
 - Shehab Adel Ramadan
